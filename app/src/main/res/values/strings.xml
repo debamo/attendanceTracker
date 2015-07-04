@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project_attendance</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="name">Student Name</string>
+    <string name="parent_name">Parent Name</string>
+    <string name="phone">Mobile number</string>
+    <string name="address">Address</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="msg">Account Not found.. Wanna Create one? </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="stud_base">Add Student Info</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity2">Attendance</string>
+    <string name="present">Present</string>
+    <string name="absent">Absent</string>
+    <string name="title_section1">Students</string>
+    <string name="title_section2">Add a Student</string>
+
+</resources>
