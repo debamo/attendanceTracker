@@ -1,4 +1,4 @@
-package com.example.owner.project_attendance;
+package com.example.owner.attendanceTracker;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.example.owner.project_attendance.Data.UserHelper;
+import com.example.owner.attendanceTracker.Data.UserHelper;
 
 public class NextStudent extends Fragment  {
 
