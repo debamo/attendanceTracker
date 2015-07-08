@@ -131,7 +131,7 @@ public class MainActivity2Activity extends ActionBarActivity implements ActionBa
                 case 0:
                     return PlaceholderFragment.newInstance(position + 1);
                 case 1:
-                    return new NextFragement();
+                    return new NextStudent();
             }
             return null;
 
